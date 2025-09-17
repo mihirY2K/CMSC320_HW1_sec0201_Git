@@ -5,3 +5,8 @@ Answer: [In order to keep track of changes in the code for yourself an others to
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: [Healthcare, finance]
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Merging preserves complete history and rehashing rewrites it]
+
