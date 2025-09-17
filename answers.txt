@@ -1,4 +1,4 @@
-Q1: Why might we consider using Git?
+iQ1: Why might we consider using Git?
 
 Answer: [In order to keep track of changes in the code for yourself an others to see]
 
@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: [Merging preserves complete history and rehashing rewrites it]
 
+Q4: What are you looking forward to this semester?
+
+Answer: [Doing cool Projects and working in a team]
